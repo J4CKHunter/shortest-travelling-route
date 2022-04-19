@@ -1,18 +1,18 @@
-## GEZGIN KARGO PROBLEMI
+## shortest travelling route problem
 
-Projede bizden istenenleri [dökümantasyon dosyasında](https://github.com/MelihYesilyurt/Gezgin-Kargo-Problemi-ProLab2-Proje1/blob/master/prolab2_1.pdf) bulabilirsiniz.
+Projede yapılması istenenleri [dökümantasyon dosyasında](https://github.com/MelihYesilyurt/Gezgin-Kargo-Problemi-ProLab2-Proje1/blob/master/prolab2_1.pdf) bulabilirsiniz.
 
-Projede içerisinde yaptıklarımla ilgili detaylı açıklamalarım [proje raporumun](https://github.com/MelihYesilyurt/Gezgin-Kargo-Problemi-ProLab2-Proje1/blob/master/Rapor.pdf) içerisindedir.
+Projede içerisinde yapılanlarla ilgili detaylı açıklamalar [proje raporunun](https://github.com/MelihYesilyurt/Gezgin-Kargo-Problemi-ProLab2-Proje1/blob/master/Rapor.pdf) içerisindedir.
 
 Nasıl Kullanılır?
 
-1-)1'den 10'a kadar bir sayı gir
+1. 1'den 10'a kadar bir sayı gir
 
-2-)Gönder butonuna bas
+2. Gönder butonuna bas
 
-3-)Girdiğin sayı kadar şehir seç
+3. Girdiğin sayı kadar şehir seç
 
-4-)Başlat butonuna bas
+4. Başlat butonuna bas
 
 
 Jar Dosyası oluşturulmuştur. 
