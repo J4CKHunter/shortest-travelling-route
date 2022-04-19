@@ -1,8 +1,8 @@
 ## shortest travelling route problem
 
-Projede yapılması istenenleri [dökümantasyon dosyasında](https://github.com/MelihYesilyurt/Gezgin-Kargo-Problemi-ProLab2-Proje1/blob/master/prolab2_1.pdf) bulabilirsiniz.
+Projede yapılması istenenleri [dökümantasyon dosyasında](https://github.com/J4CKHunter/shortest-travelling-route/blob/master/prolab2_1.pdf) bulabilirsiniz.
 
-Projede içerisinde yapılanlarla ilgili detaylı açıklamalar [proje raporunun](https://github.com/MelihYesilyurt/Gezgin-Kargo-Problemi-ProLab2-Proje1/blob/master/Rapor.pdf) içerisindedir.
+Projede içerisinde yapılanlarla ilgili detaylı açıklamalar [proje raporunun](https://github.com/J4CKHunter/shortest-travelling-route/blob/master/Rapor.pdf) içerisindedir.
 
 Nasıl Kullanılır?
 
